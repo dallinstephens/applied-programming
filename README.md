@@ -1,2 +1,2 @@
 # Applied Programming Programs
-* Hello World Python Program: [CLICK HERE](PythonHelloWorld)
+* Hello World Python Program: [README - Click Here](PythonHelloWorld/README.md)
