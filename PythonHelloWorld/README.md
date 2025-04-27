@@ -1,4 +1,4 @@
-[Back to Menu](../README.md) 
+[Back to Menu](../) 
 <!-- Reference on how to go to main root with markup file in GitHub: https://stackoverflow.com/questions/40422790/relative-link-to-repos-root-from-markdown-file -->
 # Overview
 ### What I am trying to accomplish as a Software Developer with this program
@@ -34,4 +34,4 @@ I used Python to write the code for the program.
 * [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 * [Creating Python Variables](https://www.w3schools.com/python/python_variables.asp)
 
-[Back to Menu](../README.md)
+[Back to Menu](../)
